@@ -1,0 +1,13 @@
+.btn {
+    font-size: 28px;
+    font-style: Helvetica, "Times New Roman", sans-serif;
+}
+
+.click-btn {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.no-click-btn {
+    background-color: #ffff00;
+}
